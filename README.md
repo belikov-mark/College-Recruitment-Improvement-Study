@@ -1,1 +1,2 @@
 This project's goal is to examine a data set and answer questions by plotting them using matplotlib. The two questions that you will see in the code will be App size vs. where the app ranks in the app store and the second question is what are common words that people use in their app names. 
+The file that I will be using is dataset.csv where I import the dataset that I found into my notebook and where then I am able to plot graphs of the data. 
